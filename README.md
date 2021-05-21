@@ -38,7 +38,7 @@ WHATSAPP BOT By Vinz
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
  </p>
 
-          |
+   git clone https://github.com/myvinz/VGEN
 
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
