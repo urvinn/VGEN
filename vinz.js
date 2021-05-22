@@ -47,15 +47,15 @@ SETTINGS
 */
 botName = "GEN BOT" 
 ownerName = "FahriDev" 
-vhtear = "Xfarbotkey" 
-xteam = "riskiganz30" 
+vhtear = "Beli-ajg" // Modal dikit napa
+xteam = "Beli-ajg" // Modal dikit napa
 prefix = "#" 
 blocked = []
 limitawal = "35" 
 memberlimit = "0" 
 cr = "*GEN BOT 2021*" 
-lolhuman = "genbotkey"
-vinzvhtear = "Xfarbotkey"
+lolhuman = "Beli-ajg" // Modal dikit napa
+vinzvhtear = "Beli-ajg" // Modal dikit napa
 const X = "❌"
 const O = "⭕️"
 const ownerNumber = ["996508932016@s.whatsapp.net", "6283806054217@s.whatsapp.net", "6282140744548@s.whatsapp.net"] // NOMOR OWNER
